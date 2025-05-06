@@ -22,3 +22,5 @@ Progetto di Sistemi e Reti
 - GET_COL n     → Ottieni la colonna n del CSV
 - GET_ALL       → Visualizza tutto il contenuto
 - QUIT          → Chiude il client
+
+Relazione: https://docs.google.com/document/d/12cO0qGPTRdK2dkal5BeSR0DQ0WGrds5iEjxeS1tCB-w/edit?usp=sharing
