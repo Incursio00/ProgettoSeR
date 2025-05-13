@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="serverSicilia:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/serverSicilia_jar</output-path>
+    <root id="archive" name="serverSicilia.jar">
+      <element id="module-output" name="serverSicilia" />
+    </root>
+  </artifact>
+</component>

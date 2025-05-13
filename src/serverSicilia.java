@@ -12,7 +12,7 @@ public class serverSicilia {
      */
     public static void main(String[] args) {
         // Percorso del file CSV
-        String pathFile = "Regione-Sicilia---Mappa-delle-strutture-ricettive.csv";
+        String pathFile = "file.csv";
 
         // Inizializza il gestore dati
         GestoreDati dati = new GestoreDati(pathFile);
